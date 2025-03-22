@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Haşim and I'm a Computer Programming Student, from Turkey</p>
+<p align="left">My name is <b>Haşim</b> and I'm a <b>Computer Programming Student</b>, from <b>Turkey</b></p>
 
 ###
 
